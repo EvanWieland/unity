@@ -1,3 +1,9 @@
+/* Evan Wieland
+ * Project 5B
+ * 
+ * Handles shooting with raycast
+ */
+
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;

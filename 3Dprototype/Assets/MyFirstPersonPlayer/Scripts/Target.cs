@@ -1,3 +1,9 @@
+/* Evan Wieland
+ * Project 5B
+ * 
+ * Controls target
+ */
+
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;

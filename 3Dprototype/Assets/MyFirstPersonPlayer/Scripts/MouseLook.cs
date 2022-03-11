@@ -1,3 +1,9 @@
+/* Evan Wieland
+ * Project 5B
+ * 
+ * Allows looking around with mouse
+ */
+
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
